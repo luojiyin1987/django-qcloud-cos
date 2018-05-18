@@ -5,7 +5,7 @@ from qcloudcos.utils import get_logger
 
 
 LOGGER = get_logger('Tencent Cos')
-``
+
 
 class CosObject(object):
     def __init__(self, option=None):
