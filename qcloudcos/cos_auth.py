@@ -2,7 +2,7 @@
 # coding=utf-8
 
 import time
-from urllib2 import quote
+from urllib.request import quote
 import hmac
 import hashlib
 
